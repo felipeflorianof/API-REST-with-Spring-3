@@ -1,0 +1,4 @@
+- Aqui ficariam os arquivos estáticos do projeto, como por exemplo:
+- Css,
+- Js,
+- Imagens etc...
